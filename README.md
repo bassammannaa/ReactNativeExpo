@@ -23,11 +23,16 @@ Go to inside the folder and run the folowing command to make the project up.
 
 ## B- Add React Native Navigation to Project EXPO:
 
-First, stop the project then navigate to the project folder and run the following command
+First, stop the project then navigate to the project folder and run the following two commands:
 
 `sudo npm install @react-navigation/native`
 
 `sudo expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
+
+
+###Installing the stack navigator library:
+
+`sudo npm install @react-navigation/stack`
 
 
 ## C- Add React Native Elements to Project EXPO:
