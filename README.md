@@ -10,7 +10,7 @@ The new project folder will create and EXPO libaries will start download to EXPO
 
 Run the following command to make the folder accessable.
 
-`sudo chmod 755 project_name`
+`sudo chmod 777 project_name`
 
 `sudo chown bassam:basssam project_name/`
 
