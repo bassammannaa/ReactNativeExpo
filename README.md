@@ -20,7 +20,7 @@ First, stop the project then navigate to the project folder and run the followin
 
 `npm install @react-navigation/native`
 
-`sudo expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
+`expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
 
 
 ### Installing the stack navigator library (Optional):
